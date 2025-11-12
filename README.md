@@ -67,4 +67,10 @@
 
 ---
 
-⭐ *If you like my work, feel free to star ⭐ some repos!*
+⭐ *If you like my work, feel free to star ⭐ some repos!*  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jha-Shashwat&label=Profile%20Views&color=1A73E8&style=for-the-badge" alt="profile views" />
+</p>

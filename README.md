@@ -33,8 +33,9 @@
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jha-Shashwat&layout=compact&theme=default&hide_border=false&langs_count=6" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jha-Shashwat&theme=default&hide_border=false&langs_count=6" />
 </p>
+
 
 ---
 

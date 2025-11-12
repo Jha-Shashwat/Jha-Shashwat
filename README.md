@@ -3,8 +3,9 @@
 
 <!-- Typing Animation Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=25&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast+🤖;Innovating+the+Future+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast+%F0%9F%A4%96;Innovating+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 ---
 

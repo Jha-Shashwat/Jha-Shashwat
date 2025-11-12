@@ -30,13 +30,11 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jha-Shashwat&show_icons=true&theme=default&hide_border=false" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Jha-Shashwat&theme=default&hide_border=false" />
 </p>
 
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jha-Shashwat&layout=compact&theme=default&hide_border=false&langs_count=6" />
 </p>
-
 
 ---
 

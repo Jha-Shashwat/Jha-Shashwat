@@ -1,7 +1,11 @@
-<!-- AI Futuristic Header -->
+<!-- 🌌 AI Futuristic Header -->
+<h1 align="center">
+  <b>✨ Shashwat Jha ✨</b>
+</h1>
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Shashwat+Jha;Full+Stack+Web+Developer;AI%2FML+Enthusiast+%F0%9F%A4%96;Tech+Innovator+%F0%9F%9A%80" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast+%F0%9F%A4%96;Tech+Innovator+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%92%A1" 
     alt="Typing Animation" 
   />
 </p>
@@ -33,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jha-Shashwat&layout=compact&theme=default&hide_border=false&langs_count=6" />
+  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jha-Shashwat&layout=compact&theme=default&hide_border=false&langs_count=6" />
 </p>
 
 ---

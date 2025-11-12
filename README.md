@@ -1,6 +1,6 @@
-<!-- 🌌 AI Futuristic Header -->
+<!-- 🌌 Futuristic Intro Header -->
 <h1 align="center">
-  <b>✨ Shashwat Jha ✨</b>
+  Hi there, I'm <b>Shashwat Jha</b> 👋
 </h1>
 
 <p align="center">
